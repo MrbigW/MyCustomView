@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.atsgg.customviewdemo13.Activity.MainActivity">
+
+    <com.atsgg.customviewdemo13.View.MySearchView
+        android:id="@+id/main_search_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></com.atsgg.customviewdemo13.View.MySearchView>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ListView
+
+            android:id="@+id/ls_main_name"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+          />
+
+        <TextView
+            android:id="@+id/tv_main_word"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            android:background="#44aca0a0"
+            android:gravity="center"
+            android:text="A"
+            android:textColor="#000000"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:visibility="gone"/>
+
+        <com.atsgg.customviewdemo13.View.IndexView
+            android:id="@+id/iv_main_words"
+            android:layout_width="20dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="3dp"/>
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

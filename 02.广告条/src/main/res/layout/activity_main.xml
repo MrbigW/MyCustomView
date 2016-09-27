@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.atsgg.mycustomview.MainActivity">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_main_image"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+    </android.support.v4.view.ViewPager>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/vp_main_image"
+        android:background="#44a6a3a3"
+        android:orientation="vertical">
+
+        <TextView
+            android:padding="3dp"
+            android:id="@+id/tv_main_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="姚大傻真傻子"
+            android:textColor="#FFFFFF"
+            android:textSize="14sp"/>
+
+        <LinearLayout
+            android:layout_marginBottom="3dp"
+            android:padding="3dp"
+            android:gravity="center"
+            android:id="@+id/ll_main_point"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"></LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

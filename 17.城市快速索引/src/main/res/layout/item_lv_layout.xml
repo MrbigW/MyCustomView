@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:id="@+id/item_lv_layout"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+
+    <TextView
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:text="A"
+        android:id="@+id/tv_lv_word"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:background="#44ac9898"
+        android:textColor="#000"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:text="阿福"
+        android:id="@+id/tv_lv_name"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:textColor="#000"
+        android:textSize="21sp"
+        />
+
+
+</LinearLayout>

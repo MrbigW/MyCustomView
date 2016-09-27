@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.atsgg.customviewdemo14.MySlideLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mySlidelayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include android:id="@+id/item_lv_content"
+             layout="@layout/item_lv_content"/>
+    <include android:id="@+id/item_lv_delete"
+             layout="@layout/item_lv_delete"/>
+    <include android:id="@+id/item_lv_top"
+             layout="@layout/item_lv_top"/>
+
+</com.atsgg.customviewdemo14.MySlideLayout>
