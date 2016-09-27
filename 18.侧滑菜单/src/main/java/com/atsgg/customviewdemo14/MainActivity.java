@@ -151,7 +151,8 @@ public class MainActivity extends AppCompatActivity {
                             lv_main_content.removeHeaderView(head);
                         }
                     });
-
+                    MySlideLayout headView = (MySlideLayout) head;
+                    headView.setOnStateChangeListener(new MyOnStateChangeListener());
                     lv_main_content.addHeaderView(head);
 
                     notifyDataSetChanged();
