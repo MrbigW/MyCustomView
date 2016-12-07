@@ -39,11 +39,11 @@ public class MainActivity extends AppCompatActivity {
 
     // 图片标题集合
     private final String[] imageDescriptions = {
-            "尚硅谷拔河争霸赛！",
-            "凝聚你我，放飞梦想！",
-            "抱歉没座位了！",
-            "7月就业名单全部曝光！",
-            "平均起薪11345元"
+            "光辉女郎-拉克丝",
+            "纯爷们男枪",
+            "火影-劫",
+            "全名公敌-timor",
+            "艾瑞莉娅-刀妹"
     };
 
     private ViewPager vp_main_image;
