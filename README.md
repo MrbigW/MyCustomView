@@ -17,12 +17,12 @@
 ##10.滑动开关<br>
 ![image](https://cloud.githubusercontent.com/assets/18410763/20970837/298ec126-bcca-11e6-9d54-8950fa484e3c.gif)<br>
 ##13.水位下降<br>
-![image](https://cloud.githubusercontent.com/assets/18410763/20970837/298ec126-bcca-11e6-9d54-8950fa484e3c.gif)<br>
+![image](https://cloud.githubusercontent.com/assets/18410763/20970838/29ade376-bcca-11e6-9df3-ac5813dcbabe.gif)<br>
 ##15.联系人快速索引<br>
-![image](https://cloud.githubusercontent.com/assets/18410763/20970837/298ec126-bcca-11e6-9d54-8950fa484e3c.gif)<br>
+![image](https://cloud.githubusercontent.com/assets/18410763/20970839/29b08aae-bcca-11e6-90d6-6c44270e9233.gif)<br>
 ##18.侧滑菜单加置顶，删除<br>
-![image](https://cloud.githubusercontent.com/assets/18410763/20970837/298ec126-bcca-11e6-9d54-8950fa484e3c.gif)<br>
+![image](https://cloud.githubusercontent.com/assets/18410763/20970840/29b62ffe-bcca-11e6-992d-27cbdb0d42e9.gif)<br>
 ##19.垂直滑动的ViewPager<br>
-![image](https://cloud.githubusercontent.com/assets/18410763/20970837/298ec126-bcca-11e6-9d54-8950fa484e3c.gif)<br>
+![image](https://cloud.githubusercontent.com/assets/18410763/20970841/29b8d24a-bcca-11e6-9b2d-8e99922c34de.gif)<br>
 ##20.右侧索引导航栏<br>
-![image](https://cloud.githubusercontent.com/assets/18410763/20970837/298ec126-bcca-11e6-9d54-8950fa484e3c.gif)<br>
+![image](https://cloud.githubusercontent.com/assets/18410763/20970842/29bb8242-bcca-11e6-9f55-738c99df58c3.gif)<br>
